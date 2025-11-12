@@ -7,10 +7,10 @@ Youtube: @HikariArchive
 
 //~~~~~Setting Global~~~~~//
 
-global.owner = ["628xxxx"] // Nomor Pemilik
-global.bot = "628xxxx" // Nomor Bot
-global.namabot = "Base-Hikari" // Nama Bot
-global.namaown = "Hikari Archive" // Nama owner
+global.owner = ["6285739115205"] // Nomor Pemilik
+global.bot = "6285739115205" // Nomor Bot
+global.namabot = "Zeuz" // Nama Bot
+global.namaown = "yame" // Nama owner
 
 //~~~~~Status Diperbarui~~~~~//
 let fs = require('fs')
